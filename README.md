@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials by Celyes
 Repository link : https://github.com/celyes/tutorials.
 
 Html tutorial documents
