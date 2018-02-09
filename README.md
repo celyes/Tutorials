@@ -1,5 +1,5 @@
 # Tutorials by Celyes
-![Celyes Logo](http://vivify.mkcreative.cz/assets/img/vivify.png)
+![Celyes Logo](http://b.up-00.com/2018/02/1518217108921.png)
 
 
 Repository link : https://github.com/celyes/tutorials.
